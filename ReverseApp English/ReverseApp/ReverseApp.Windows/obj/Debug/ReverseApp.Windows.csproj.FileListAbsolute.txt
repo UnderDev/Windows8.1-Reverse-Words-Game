@@ -1,0 +1,128 @@
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\App.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\MainPage.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.xr.xml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\resources.pri
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\AppxManifest.xml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.build.appxrecipe
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.i.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.i.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.i.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.xaml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xaml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xaml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xaml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\scottCoyne\Documents\Visual Studio 2013\Projects\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\HighScore.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.xr.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\resources.pri
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\AppxManifest.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.build.appxrecipe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\HighScore.txt
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\App.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\MainPage.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.xr.xml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\resources.pri
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\AppxManifest.xml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.build.appxrecipe
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.i.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\App.g.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.g.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.i.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.g.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.i.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.g.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\App.xaml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xaml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xaml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xaml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\App.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\MainPage.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\ProjectArchitectures.txt

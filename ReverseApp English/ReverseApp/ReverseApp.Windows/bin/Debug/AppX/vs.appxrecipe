@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SCOTTLAPTOP</Machine>
+    <WindowsUser>scottCoyne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43332ScottCoyne.Everse</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>09F7B9ADC39AF16E6B4BD26D5D775002E5BAD85B0469CF17329865D869482215</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43332ScottCoyne.Everse_1.1.0.3_neutral__appq8851c8jfw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43332ScottCoyne.Everse_appq8851c8jfw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43332ScottCoyne.Everse</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=F116E714-E702-4552-AD63-B23D957DFEF7</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-05T19:28:21.803</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.exe">
+      <PackagePath>ReverseApp.Windows.exe</PackagePath>
+      <Modified>2014-12-05T19:28:21.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\310x150.scale-100.png">
+      <PackagePath>310x150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T16:34:07.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\310x310.scale-100.png">
+      <PackagePath>310x310.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T16:34:59.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\70x70.scale-100.png">
+      <PackagePath>70x70.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T16:32:44.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Assets\70x70.scale-100.png">
+      <PackagePath>Assets\70x70.scale-100.png</PackagePath>
+      <Modified>2014-12-04T16:32:44.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-04T12:01:18.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T11:54:38.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T11:52:15.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2014-12-04T16:35:33.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\Logo.scale-100.png">
+      <PackagePath>Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T12:01:18.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\SmallLogo.scale-100.png">
+      <PackagePath>SmallLogo.scale-100.png</PackagePath>
+      <Modified>2014-12-04T11:54:38.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\SplashScreen.scale-100.png">
+      <PackagePath>SplashScreen.scale-100.png</PackagePath>
+      <Modified>2014-12-04T11:52:15.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\StoreLogo.scale-100.png">
+      <PackagePath>StoreLogo.scale-100.png</PackagePath>
+      <Modified>2014-12-04T14:52:06.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\150x150.png">
+      <PackagePath>Assets\150x150.png</PackagePath>
+      <Modified>2014-12-04T12:01:18.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\30x30.png">
+      <PackagePath>Assets\30x30.png</PackagePath>
+      <Modified>2014-12-04T11:54:38.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\310x150.scale-100.png">
+      <PackagePath>Assets\310x150.scale-100.png</PackagePath>
+      <Modified>2014-12-04T12:00:05.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\310x310.scale-100.png">
+      <PackagePath>Assets\310x310.scale-100.png</PackagePath>
+      <Modified>2014-12-04T11:55:55.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\44x44.png">
+      <PackagePath>Assets\44x44.png</PackagePath>
+      <Modified>2014-12-04T15:05:32.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\480x800.scale-100.png">
+      <PackagePath>Assets\480x800.scale-100.png</PackagePath>
+      <Modified>2014-12-04T08:49:04.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\50x50.scale-100.png">
+      <PackagePath>Assets\50x50.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T14:52:06.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\620x300.png">
+      <PackagePath>Assets\620x300.png</PackagePath>
+      <Modified>2014-12-04T11:52:15.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\71x71.png">
+      <PackagePath>Assets\71x71.png</PackagePath>
+      <Modified>2014-12-04T14:39:15.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\Assets\GameHeaderColour.png">
+      <PackagePath>Assets\GameHeaderColour.png</PackagePath>
+      <Modified>2014-11-29T18:42:38.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\HighScore.txt">
+      <PackagePath>HighScore.txt</PackagePath>
+      <Modified>2014-11-30T21:44:07.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Shared\wordContainer.txt">
+      <PackagePath>wordContainer.txt</PackagePath>
+      <Modified>2014-11-28T17:53:12.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-05T19:28:21.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-05T19:28:21.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseGame.xbf">
+      <PackagePath>ReverseGame.xbf</PackagePath>
+      <Modified>2014-12-05T19:28:21.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ScorePage.xbf">
+      <PackagePath>ScorePage.xbf</PackagePath>
+      <Modified>2014-12-05T19:28:21.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\ReverseApp.Windows.xr.xml">
+      <PackagePath>ReverseApp.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-04T16:36:50.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\scottCoyne\Desktop\FINISHED APPS\ReverseApp English\ReverseApp\ReverseApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-05T19:28:21.670</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

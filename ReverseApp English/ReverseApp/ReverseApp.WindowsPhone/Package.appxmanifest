@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="43332ScottCoyne.Everse" Publisher="CN=F116E714-E702-4552-AD63-B23D957DFEF7" Version="1.1.0.3" />
+  <mp:PhoneIdentity PhoneProductId="b6a74bdc-5b06-4230-83cd-4a508e0e1990" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>ЯEverse</DisplayName>
+    <PublisherDisplayName>UnderDev</PublisherDisplayName>
+    <Logo>50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ReverseApp.WindowsPhone.App">
+      <m3:VisualElements DisplayName="ЯEverse" Square150x150Logo="150.png" Square44x44Logo="4444.png" Description="ReverseApp.WindowsPhone" ForegroundText="light" BackgroundColor="lightBlue">
+        <m3:DefaultTile Wide310x150Logo="310x150.png" Square71x71Logo="Square71x71Logo.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+            <m3:ShowOn Tile="wide310x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="480x800.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+</Package>

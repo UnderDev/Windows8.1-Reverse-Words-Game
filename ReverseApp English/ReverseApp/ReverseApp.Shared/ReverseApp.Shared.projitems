@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>e6a0ed34-f410-4b75-8038-da09e77fe1e1</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>ReverseApp</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30x30.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310x150.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310x310.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\44x44.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\480x800.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\50x50.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\620x300.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\70x70.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\71x71.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\GameHeaderColour.png" />
+    <Content Include="$(MSBuildThisFileDirectory)HighScore.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)wordContainer.txt" />
+  </ItemGroup>
+</Project>

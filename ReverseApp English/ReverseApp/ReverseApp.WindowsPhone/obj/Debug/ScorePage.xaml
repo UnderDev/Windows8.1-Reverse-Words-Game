@@ -1,0 +1,92 @@
+﻿<Page
+    x:Class="ReverseApp.ScorePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ReverseApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <!--BACKGROUND COLOR-->
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF9BC1D1"/>
+                <GradientStop Color="#FF408EBE" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".5*"></ColumnDefinition>
+            <ColumnDefinition Width="9*"></ColumnDefinition>
+            <ColumnDefinition Width=".5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Image  Name="imgPic3"
+                    Source="Assets/GameHeaderColour.png"
+                    Stretch="Fill" />
+
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <TextBlock Foreground="White" 
+                       FontSize="50"
+        	           Text="You Lose!"  
+        	           TextAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <TextBlock Foreground="#FFF78F51" 
+                       FontSize="25"
+        	           Text="Score:"  
+        	           TextAlignment="Center"/>
+
+            <TextBlock x:Name="CurrentScoreBox"
+                       FontSize="25"
+        	           TextAlignment="Center"
+                       VerticalAlignment="Center"
+                       Padding="10,0,0,0"/>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <Button x:ConnectionId='1' Content="Restart"
+                                          
+                    FontSize="40" >
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA5D5CE" Offset="1"/>
+                        <GradientStop Color="#FF249847"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="4" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <TextBlock Foreground="#FFF78F51"
+                       FontSize="40"
+                       Text="Best Score"
+                       TextAlignment="Center"/>
+
+            <TextBlock x:Name="resultsBox"
+                       FontSize="30" 
+                       TextAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

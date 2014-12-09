@@ -1,0 +1,85 @@
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.xr.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\resources.pri
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\AppxManifest.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.build.appxrecipe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\App.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\App.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\App.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\priconfig.xml
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\layout.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\resources.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\pri.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\qualifiers.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\scottCoyne\Desktop\ReverseApp\ReverseApp\ReverseApp.Windows\obj\Release\ProjectArchitectures.txt
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\HighScore.txt
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.xr.xml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\resources.pri
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\AppxManifest.xml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\bin\Release\ReverseApp.Windows.build.appxrecipe
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\App.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\App.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.g.i.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\App.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.xaml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\App.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\MainPage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseGame.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ScorePage.xbf
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseApp.Windows.exe
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ReverseApp.Windows.pdb
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\priconfig.xml
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\layout.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\resources.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\pri.resfiles
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\qualifiers.txt
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\scottCoyne\Desktop\ReverseApp FINISHED\ReverseApp\ReverseApp.Windows\obj\Release\ProjectArchitectures.txt
